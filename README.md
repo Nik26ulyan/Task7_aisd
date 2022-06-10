@@ -1,3 +1,2 @@
-
-![image](https://user-images.githubusercontent.com/90478530/173144184-6b4410ed-b742-420a-8e6c-34b8b803d4f9.png)
 # Task7_aisd
+![image](https://user-images.githubusercontent.com/90478530/173144308-eefda7b0-5516-4bf7-a26c-c431ea3809a4.png)
